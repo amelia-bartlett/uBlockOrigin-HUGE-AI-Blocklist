@@ -964,6 +964,8 @@
 0.0.0.0 scpa.education
 0.0.0.0 sunoai.asia
 0.0.0.0 diffus.me
+0.0.0.0 glarity.app
+0.0.0.0 askai.glarity.app
 
 
 # [AI Projects Hosted on Other Sites]

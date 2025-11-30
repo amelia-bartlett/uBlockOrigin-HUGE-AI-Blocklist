@@ -998,6 +998,7 @@
 *://*.sunoai.asia/*
 *://*.diffus.me/*
 *://*.deepwiki.org/*
+*://*.glarity.app/*
 
 # AI projects hosted on other sites
 *://*.canva.com/ai-art-generator/*
